@@ -1,0 +1,10 @@
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientCLI/bin/Debug/netcoreapp2.0/ReceiptClientCLI.deps.json
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientCLI/bin/Debug/netcoreapp2.0/ReceiptClientCLI.runtimeconfig.json
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientCLI/bin/Debug/netcoreapp2.0/ReceiptClientCLI.runtimeconfig.dev.json
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientCLI/bin/Debug/netcoreapp2.0/ReceiptClientCLI.dll
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientCLI/bin/Debug/netcoreapp2.0/ReceiptClientCLI.pdb
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientCLI/obj/Debug/netcoreapp2.0/ReceiptClientCLI.csproj.CoreCompileInputs.cache
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientCLI/obj/Debug/netcoreapp2.0/ReceiptClientCLI.AssemblyInfoInputs.cache
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientCLI/obj/Debug/netcoreapp2.0/ReceiptClientCLI.AssemblyInfo.cs
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientCLI/obj/Debug/netcoreapp2.0/ReceiptClientCLI.dll
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientCLI/obj/Debug/netcoreapp2.0/ReceiptClientCLI.pdb

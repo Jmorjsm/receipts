@@ -1,0 +1,15 @@
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientTest/obj/Debug/netcoreapp2.0/ReceiptClientTest.csproj.CoreCompileInputs.cache
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientTest/obj/Debug/netcoreapp2.0/ReceiptClientTest.AssemblyInfoInputs.cache
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientTest/obj/Debug/netcoreapp2.0/ReceiptClientTest.AssemblyInfo.cs
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientTest/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientTest/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientTest/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientTest/bin/Debug/netcoreapp2.0/ReceiptClientTest.deps.json
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientTest/bin/Debug/netcoreapp2.0/ReceiptClientTest.runtimeconfig.json
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientTest/bin/Debug/netcoreapp2.0/ReceiptClientTest.runtimeconfig.dev.json
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientTest/bin/Debug/netcoreapp2.0/ReceiptClientTest.dll
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientTest/bin/Debug/netcoreapp2.0/ReceiptClientTest.pdb
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientTest/bin/Debug/netcoreapp2.0/ReceiptClientCLI.dll
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientTest/bin/Debug/netcoreapp2.0/ReceiptClientCLI.pdb
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientTest/obj/Debug/netcoreapp2.0/ReceiptClientTest.dll
+/Users/jonmorgan/RiderProjects/ReceiptClient/ReceiptClientTest/obj/Debug/netcoreapp2.0/ReceiptClientTest.pdb
